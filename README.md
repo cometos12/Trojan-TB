@@ -2,10 +2,8 @@ This is for educational Purposes Only!
 Do not send this trojans what you create to peoples!
 
 To start Program type:
-======First Give Him Permissions======
-`chmod +x start.sh`
-======Next To Start is write==========
-`./start.sh`
+`chmod +x start.sh` - Give him permissions
+`./start.sh` - To start
 
 This is for Kali Linux or Linux!
 
