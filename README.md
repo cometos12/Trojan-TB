@@ -7,9 +7,12 @@ To start Program type:
 
 `./start.sh` - To start
 
-This is for Kali Linux or Linux!
+This is for:
+
+Kali Linux
+
+Linux
 
 Wait for new updates :)
-
 
 bye!
