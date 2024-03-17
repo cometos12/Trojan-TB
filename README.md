@@ -1,5 +1,15 @@
-&b&lThis is for Educational Purposes Only!
+This is for educational Purposes Only!
+Do not send this trojans what you create to peoples!
 
 To start Program type:
-`chmod +x start.sh` - Give him permissions
-`./start.sh` - To start
+======First Give Him Permissions======
+`chmod +x start.sh`
+======Next To Start is write==========
+`./start.sh`
+
+This is for Kali Linux or Linux!
+
+Wait for new updates :)
+
+
+bye!
