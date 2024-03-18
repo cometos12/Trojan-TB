@@ -36,7 +36,7 @@ echo  "\e[31m [------------------------------------------------] \e[0m"
 read opcja
 case "$opcja" in
 	
-	"1") Buduj ;;
+    "1") Buduj ;;
     "2") sluchaj ;;
 
 *) clear && ./start.sh
